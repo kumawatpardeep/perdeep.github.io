@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  background-color: aqua;
+  height: 50px;
+}
+.logo {
+  color: blue;
+  margin:10px;
+}
+.navbar {
+  margin-left: 1000px;
+}
+a.a {
+  margin-right: 10px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+a.b {
+  margin-right: 10px;
+  text-decoration: none;
+}
+a.c {
+  margin-right: 10px;
+  text-decoration: none;
+}
+a.d{
+  text-decoration: none;
+}
