@@ -1,28 +1,42 @@
 .container {
   display: flex;
-  background-color: aqua;
+  background-color: rgba(235, 14, 69, 0.233);
   height: 50px;
 }
 .logo {
   color: blue;
   margin:10px;
-}
+  color: rgb(160, 29, 121);
+  }
+  .imm{
+    width: 40px;
+    height: 40px;
+    margin-top: -6px;
+  }
+  
 .navbar {
   margin-left: 1000px;
+  margin-top: 12px;
+  /* color: black; */
+  
 }
 a.a {
   margin-right: 10px;
   text-decoration: none;
   margin-top: 50px;
+  color: rgb(160, 29, 121);
 }
 a.b {
   margin-right: 10px;
   text-decoration: none;
+  color: rgb(160, 29, 121);
 }
 a.c {
   margin-right: 10px;
   text-decoration: none;
+  color: rgb(160, 29, 121);
 }
 a.d{
   text-decoration: none;
+  color: rgb(160, 29, 121);  
 }

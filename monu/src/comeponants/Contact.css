@@ -1,0 +1,112 @@
+label.n {
+    margin-left: -354px;
+    font-size: 31px;
+    color: rgb(202, 100, 117);
+}
+input#org_name {
+    width: 357px;
+    height: 33px;
+    border-radius: 10px;
+}
+label.oc {
+    margin-left: -245px;
+    font-size: 27px;
+    color: rgb(202, 100, 117);
+}
+input#ocup_type {
+    width: 362px;
+    margin-left: -60px;
+    height: 33px;
+    border-radius: 10px;
+    margin-left: 0px;
+}
+.in{
+    margin-left: -126px;
+    font-size: 27px; 
+    color: rgb(202, 100, 117);
+}
+input#name {
+    margin-left: -70px;
+    width: 360px;
+    height: 32px;
+    border-radius: 10px;
+    margin-left: -5px;
+}
+.em{
+    margin-left: -376px;
+    font-size: 27px; 
+    color: rgb(202, 100, 117);
+}
+input#email {
+    width: 362px;
+    margin-left: 0px;
+    height: 33px;
+    border-radius: 10px;
+}
+.me{
+    margin-left: -339px;
+    font-size: 27px; 
+    color: rgb(202, 100, 117);
+}
+textarea#message {
+    width: 362px;
+    margin-left: 0px;
+    height: 33px;
+    border-radius: 10px;
+}
+button.sss {
+    width: 138px;
+    height: 44px;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: 45px;
+    cursor:  w-resize;
+}
+.formm {
+    /* border: 1px solid; */
+    width: 100%;
+    height: 89vh;
+    background-color: rgba(255, 192, 203, 0.301);
+}
+.qqq{
+    margin-left: -14px;
+    /* border: 1px solid; */
+    width: 514px;
+    margin-left: -1px;
+    float: revert;
+    margin-top: -1px;
+    height: 65px;
+    background-color: pink;
+    color: #d7154bbd;
+    border-radius: 15px;
+}
+.cont {
+    /* border: 1px solid; */
+    width: 520px;
+    height: 561px;
+    margin-left: 385px;
+    float: left;
+    margin-top: 23px;
+    background-color: pink;
+    border-radius: 15px;
+}
+
+
+
+/* .contact-form {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    gap: 1rem;
+    text-align: left;
+}
+.contact-main-container{
+    display: flex;
+    justify-content: normal;
+    text-align: left;
+    align-items: center;
+    height: 40vh;
+    margin-top: 200px;
+    
+} */

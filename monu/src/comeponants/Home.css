@@ -1,5 +1,25 @@
 .wel{
-    background-image:url(https://miro.medium.com/v2/resize:fit:1200/1*xMuIOwjliGUPjkzukeWKfw.jpeg);
+    background-image:url(./image/kkk.jpg);
     height: 100vh;
+    background-size: cover;
     background-repeat: no-repeat;
+    color: rgb(20, 20, 20);
+    margin-top: -20px;
+    /* background-color: brown; */
+
+}
+img.picmy {
+    height: 50vh;
+    /* border: 1px solid brown; */
+    margin-right: 1040px;
+    margin-top: 100px;
+}
+.pra{
+    width: 1000px;
+    margin-left: 350px;
+    margin-top: -200px;
+    color: black;
+}
+h4 {
+    margin-left: -51px;
 }

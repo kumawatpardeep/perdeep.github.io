@@ -1,0 +1,92 @@
+.main-container{
+    background-color:  rgba(235, 135, 190, 0.329);
+    height: 100vh;
+    width: 100%;
+} 
+.abo{ 
+     /* border: 1px solid black ; */
+     margin-top: 20px;
+    
+    height: 500px;
+    width: 400px;
+    float: left;
+    height: 97%;
+    width: 490px;
+}
+.pro{
+    /* border: 1px solid; */
+    height: 60px;
+    width: 489px;
+    background-color:  rgba(235, 14, 69, 0.089);
+    text-align: center;
+    font-size: 50px;
+    color: rgba(247, 0, 255, 0.24);
+    
+}
+.info{
+    /* border: 1px solid; */
+    width: 489px;
+    /* /* height: 575px; */
+}
+.ime{
+    /* border: 1px solid; */
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-radius: 100px;
+}
+.qqqqq {
+    width: 198px;
+    height: 202px;
+    border-radius: 100px;
+}
+.add{
+    /* border: 1px solid; */
+    height: 360px;
+ }
+h3 {
+    margin-left: -159px;
+}
+h5 {
+    margin-top: -38px;
+    margin-left: 114px;
+} 
+.viewpdf {
+    margin-left: 99px;
+    float: left;
+    margin-top: 58px;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 10px;
+    width: 129px;
+    height: 37px;
+    background-color: #81C784;
+}
+a {
+    text-decoration: none;
+    color: black;
+    /* padding-top: 20px; */
+    /* margin-top: 20px; */
+    
+} 
+.dowpdf {
+    margin-top: 80px;
+    border: 1px solid;
+    
+    margin-left: 257px;
+    border-radius: 10px;
+    background-color: rgb(201, 106, 122);
+    width: 129px;
+    height: 37px;
+}
+.abc {
+    /* border: 1px  solid; */
+    width: 855px;
+    height: 638px;
+    margin-left: 100px;
+    margin-left: 491px;
+    float: left;
+    margin-top: 20px;
+    margin-left: -1px;
+}
